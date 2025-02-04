@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,3 +14,10 @@
     </div>
 </body>
 </html>
+=======
+<script>
+    $(document).ready(function () {
+        
+    });
+</script>
+>>>>>>> new_branch_index
