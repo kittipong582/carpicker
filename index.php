@@ -7,12 +7,12 @@
 </head>
 <body>
     <div class="form-group">
-      <label for=""></label>
+      <label for="">input 1</label>
       <input type="text" name="" id="" class="form-control" placeholder="" aria-describedby="helpId">
       <small id="helpId" class="text-muted">Help text</small>
     </div>
     <div class="form-group">
-      <label for=""></label>
+      <label for="">input 2</label>
       <input type="text" name="" id="" class="form-control" placeholder="" aria-describedby="helpId">
       <small id="helpId" class="text-muted">Help text</small>
     </div>
